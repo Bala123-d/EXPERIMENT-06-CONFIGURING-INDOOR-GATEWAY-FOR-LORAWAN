@@ -122,11 +122,10 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
-<img width="518" height="632" alt="image" src="https://github.com/user-attachments/assets/c1a3d832-723d-4a27-9b6f-e0d5d71ace59" />
-<img width="1334" height="546" alt="639900922-786654c7-6b6d-4ad7-9ad8-abb3572f999a" src="https://github.com/user-attachments/assets/5e4e42cd-9461-4570-a2d1-65ac323f5f4d" />
-<img width="1600" height="921" alt="WhatsApp Image 2026-08-22 at 13 03 47" src="https://github.com/user-attachments/assets/8e318e20-8fee-491c-bf84-84abd7412cdf" />
-<img width="1920" height="1100" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/7ab1b283-72f2-4e27-b48f-1f0cc6083dc0" />
-<img width="1920" height="1086" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/2989dc03-a965-436e-801c-197eddba0e1a" />
+<img width="1600" height="723" alt="image" src="https://github.com/user-attachments/assets/49e39815-67e0-433e-a498-89d63751e869" />
+<img width="1600" height="792" alt="image" src="https://github.com/user-attachments/assets/d40aada7-8c97-4240-821c-4d26d0f60200" />
+<img width="1600" height="792" alt="image" src="https://github.com/user-attachments/assets/2fe35387-e587-4e36-9e16-9bf95b9e00b9" />
+<img width="1600" height="791" alt="image" src="https://github.com/user-attachments/assets/e00d544e-9f50-4a6e-9a81-453b5e442110" />
 
 
 ## Result: 
